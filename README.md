@@ -20,8 +20,9 @@ SkillPulse is an AI platform that connects each of your projects into a dynamic 
 * API Integration: GitHub API access is required for secure, user-authorized repository and commit data extraction.
 
 ## System Architecture
+![arch](https://github.com/user-attachments/assets/d023f0e9-0198-48d0-828d-498aa9c99bd1)
 
- ![alt text](image.png)
+ 
 
 ## Output
 
